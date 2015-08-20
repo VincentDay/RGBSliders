@@ -43,7 +43,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="kOH-Gr-KYt" kind="show" id="l0H-Fm-jsM"/>
+                                    <segue destination="kOH-Gr-KYt" kind="show" identifier="openColor" id="l0H-Fm-jsM"/>
                                 </connections>
                             </button>
                         </subviews>
