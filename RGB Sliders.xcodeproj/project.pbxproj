@@ -159,6 +159,8 @@
 		6110AD001B82650D00AAF446 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Vince Day";
 				TargetAttributes = {
@@ -413,6 +415,7 @@
 				6110AD2C1B82650D00AAF446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6110AD2D1B82650D00AAF446 /* Build configuration list for PBXNativeTarget "RGB SlidersTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +424,7 @@
 				6110AD2F1B82650D00AAF446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
